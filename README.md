@@ -1,4 +1,6 @@
 # Argoproj
+![Maintained by Hassan](https://img.shields.io/badge/maintained%20by-Hassan.com-blue)
+
 ![Argo Image](argo.jpg)
 
 ## Tools we are going to learn together
